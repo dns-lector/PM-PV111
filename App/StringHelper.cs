@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace App
 {
-    public class StringHelper
+    public class StringHelper  // 
     {
         public String Ellipsis(String input, int maxLength = 80)
         {
